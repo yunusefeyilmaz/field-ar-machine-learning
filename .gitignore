@@ -1,0 +1,15 @@
+output/
+models/
+.vscode/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore logs
+logs/
+*_WaterStress.png
+# Ignore data files
+data.json

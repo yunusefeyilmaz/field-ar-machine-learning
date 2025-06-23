@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+scipy
+shapely
+pyproj
+tqdm
+joblib
+matplotlib
+seaborn
+opencv-python
+cupy
+pillow
+fastapi
+uvicorn
+pydantic
+python-multipart
