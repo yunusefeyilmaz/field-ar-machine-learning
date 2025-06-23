@@ -58,7 +58,7 @@ water_stress_prediction/
 
    ```
    git clone https://github.com/yunusefeyilmaz/field-ar-machine-learning.git
-   cd water_stress_prediction
+   cd field-ar-machine-learning
    ```
 
 2. Bağımlılıkları yükleyin:
