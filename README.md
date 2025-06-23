@@ -57,7 +57,7 @@ water_stress_prediction/
 1. Depoyu klonlayın:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/yunusefeyilmaz/field-ar-machine-learning.git
    cd water_stress_prediction
    ```
 
